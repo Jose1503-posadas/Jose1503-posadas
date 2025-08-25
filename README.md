@@ -24,6 +24,12 @@
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Tuxedo](https://img.shields.io/badge/-Tuxedo-000000?style=flat)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+
+
+
 
 
 
