@@ -1,4 +1,19 @@
+<h3 title="hehehe"> Hey 👋, I'm José!</h3>
 
+<a href="https://www.linkedin.com/in/jose-alberto-posadas-gudino-650a55349/">
+  <img align="left" alt="José's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/jaskirat.mokha/">
+  <img align="left" alt="José's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://twitter.com/jas_script">
+  <img align="left" alt="Jose1503-posadas's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
+
+
+
+
+----
 
 ##### Programming Languages
 
