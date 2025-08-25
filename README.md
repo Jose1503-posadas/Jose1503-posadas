@@ -1,11 +1,12 @@
 <!--Header Name-->
 <h3 title="hehehe"> Hey 👋, I'm José!</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+---  
+
 <!--END Header Name-->
 
 <!--Social Media -->
-🤝 Connect with me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://www.linkedin.com/in/jose-alberto-posadas-gudino-650a55349/">
   <img align="left" alt="José's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -15,7 +16,10 @@
 <a href="https://x.com/15_japg">
   <img align="left" alt="Jose1503-posadas's Twitter" width="22px" src="https://img.shields.io/badge/-X-000000?" />
 </a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <br><br>
+
+
+---
 <!--END SOCIAL MEDIA-->
 
 ##### Programming Languages
@@ -55,7 +59,8 @@
   <td width="50%" align="center">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jose1503-posadas&theme=cobalt&show_icons=true&count_private=true" />
       <div align="center">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose1503-posadas&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+      <br><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose1503-posadas&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
   </td>
   <td width="50%" align="center">
