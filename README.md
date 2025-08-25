@@ -1,5 +1,23 @@
+
+
+
+
+
+
+
 <!--Header Name-->
-<h3 title="hehehe"> Hey 👋, I'm José!</h3>
+<h3 title="hehehe">  Hey 👋, I'm José!</h3>
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- 💁‍♂️ Volunteer MOD at **Dev Community**.
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ❤ Contributing to Open Source.
+<!--End Intro-->
+
 
 
 ---  
