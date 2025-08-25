@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/jose-alberto-posadas-gudino-650a55349/">
   <img align="left" alt="José's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
+<a href="https://www.instagram.com/jose.posadas1503/">
   <img align="left" alt="José's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/jas_script">
