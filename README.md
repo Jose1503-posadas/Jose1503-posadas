@@ -1,29 +1,7 @@
-
-
-
-
-
-
-
 <!--Header Name-->
 <h3 title="hehehe">  Hey 👋, I'm José!</h3>
-<!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-<!--End Intro-->
-
-
-
----  
-
-<!--END Header Name-->
-
+---
 <!--Social Media -->
 <a href="https://www.linkedin.com/in/jose-alberto-posadas-gudino-650a55349/">
   <img align="left" alt="José's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -35,10 +13,24 @@
   <img align="left" alt="Jose1503-posadas's Twitter" width="22px" src="https://img.shields.io/badge/-X-000000?" />
 </a>
  <br><br>
+ 
+
+<!--Start Intro-->
+<p align="left">
+I am a final-year Computer Engineering student with a passion for programming and a love for learning. My main interests lie in <strong>Web Development</strong>, <strong>Artificial Intelligence</strong>, and <strong>Mobile App Development</strong>, but I enjoy exploring new areas of programming and discovering what excites me the most.
+</p>
+
+- ✨ Always eager to learn and grow.
+- 🌱 Open to feedback and constructive criticism.
+- 💻 Passionate about coding and building meaningful projects.
+- 🤝 I enjoy teamwork and finding connections that help me improve.
+- 🚀 Curious about all areas of programming and technology.
+
+<!--End Intro-->
 
 
----
-<!--END SOCIAL MEDIA-->
+
+---  
 
 ##### Programming Languages
 
