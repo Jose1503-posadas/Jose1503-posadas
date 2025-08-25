@@ -32,7 +32,8 @@ I am a final-year Computer Engineering student with a passion for programming an
 
 ---  
 
-##### Programming Languages
+
+<h3 title="Lenguajes"> Programming Languages</h3>
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -45,7 +46,7 @@ I am a final-year Computer Engineering student with a passion for programming an
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 
-##### Some of the technologies I have worked with
+<h3 title="technologies"> Some of the technologies I have worked with</h3>
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
