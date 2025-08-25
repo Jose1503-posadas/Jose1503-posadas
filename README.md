@@ -6,8 +6,8 @@
 <a href="https://www.instagram.com/jose.posadas1503/">
   <img align="left" alt="José's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jose1503-posadas's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+<a href="https://x.com/15_japg">
+  <img align="left" alt="Jose1503-posadas's Twitter" width="22px" src="https://img.shields.io/badge/-X-000000?" />
 </a>
 
 
